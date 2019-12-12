@@ -5,6 +5,10 @@
 # Screenshots
 ![alt-text](https://github.com/FajarTheGGman/GCI-Dork/blob/master/.img/screenshots.PNG)
 
+# Demo
+
+[![](https://asciinema.org/a/2JYqr0ZBYVrKOjHwQcISV8Dnb.png)](https://asciinema.org/a/2JYqr0ZBYVrKOjHwQcISV8Dnb)
+
 # How To install ?
 
 <pre>
